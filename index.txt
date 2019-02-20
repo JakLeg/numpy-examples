@@ -1,0 +1,9 @@
+t0 - Numpy Tutorials | 1. Lists vs  Arrays
+t1 - Numpy Tutorials | 2. Dot product 1 For loop vs  cosine method vs  dot function
+t2 - Numpy Tutorials | 3. Dot product 2 Speed comparison
+t3 - Numpy Tutorials | 4. Vectors and Matrices
+t4 - Numpy Tutorials | 5. Generating Matrices to Work With
+t5 - Numpy Tutorials | 6. Matrix Products
+t6 - Numpy Tutorials | 7. More Matrix Operations
+t7 - Numpy Tutorials | 8. Solving a Linear System
+t8 - Numpy Tutorials | 9. Word Problem
